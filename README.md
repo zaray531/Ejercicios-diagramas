@@ -1,13 +1,11 @@
-# Ejercicios-diagramas 🐍
+# Ejercicios-diagramas 
 
-Ejercicios de **Programación Orientada a Objetos** en Python, desarrollados para la universidad.
+Ejercicios de Programación Orientada a Objetos en Python
 
-## 📂 Ejercicios
+##  Ejercicios
 
-| # | Archivo | Descripción |
-|---|---------|-------------|
 | 1 | `ejercicio1_cuenta_bancaria.py` | Gestión de cuentas bancarias |
-| 2 | `ejercicio2_automovil.py` | Modelado de automóviles y motores |
+| 2 | `ejercicio2_automovil.py` | Automóviles y motores |
 | 3 | `ejercicio3_equipo.py` | Jugadores y equipos deportivos |
 | 4 | `ejercicio4_formas.py` | Figuras geométricas (Círculo, Rectángulo) |
 | 5 | `ejercicio5_empleado.py` | Empleados fijos y contratistas |
@@ -15,14 +13,6 @@ Ejercicios de **Programación Orientada a Objetos** en Python, desarrollados par
 | 7 | `ejercicio7_pedido.py` | Clientes, productos y pedidos |
 | 8 | `ejercicio8_zoologico.py` | Zoológico con animales y cuidadores |
 
-## 🚀 Cómo ejecutar
 
-```bash
-python main.py
-```
 
-## 🛠️ Tecnologías
-- Python 3
 
-## 👤 Autor
-zaray531
