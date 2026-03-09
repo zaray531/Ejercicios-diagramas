@@ -5,7 +5,7 @@ class Jugador:
         self.__posicion = posicion
         self.__numero_camiseta = numero_camiseta
 
-    # Getters
+    
     def get_nombre(self):
         return self.__nombre
 
@@ -18,7 +18,7 @@ class Jugador:
     def get_numero_camiseta(self):
         return self.__numero_camiseta
 
-    # Setters
+    
     def set_nombre(self, nombre):
         self.__nombre = nombre
 
@@ -43,7 +43,7 @@ class Equipo:
         self.__entrenador = entrenador
         self.__jugadores = []
 
-    # Getters
+    
     def get_nombre(self):
         return self.__nombre
 
@@ -56,7 +56,7 @@ class Equipo:
     def get_jugadores(self):
         return self.__jugadores
 
-    # Setters
+
     def set_nombre(self, nombre):
         self.__nombre = nombre
 
@@ -66,7 +66,7 @@ class Equipo:
     def set_entrenador(self, entrenador):
         self.__entrenador = entrenador
 
-    # Métodos
+    
     def agregar_jugadores(self, jugador: Jugador):
         if len(self.__jugadores) < 24:
             self.__jugadores.append(jugador)
